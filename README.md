@@ -1,5 +1,7 @@
-# tawhidii-krisi-doctor-api-DRF
-Project Overview:
+# Project Overview:
+Some time ago I went to village and I saw farmers are discussing that they don’t actually get help directly from the Krishi officer because of many limitations. And there are some general problems but they sometimes don’t get the actual solution. This is why a plan knocked me to resolved their problem easily. And I decided to do this project finally I got the opportunity and completed this project. It also helps the agriculture officer and helps to increase our economy. This repository is only for Backend with API for Android Application which is developed with DRF(Django REST framework) 
 
-Some time ago I went to village and I saw farmers are discussing that they don’t actually get help directly from the Krishi officer because of many limitations. And there are some general problems but they sometimes don’t get the actual solution. This is why a plan knocked me to resolved their problem easily. And I decided to do this project finally I got the opportunity and completed this project. It also helps the agriculture officer and helps to increase our economy.
+# Android Application repository :
+
+https://github.com/shoaibswe/KrishiDoctor
 
